@@ -173,7 +173,7 @@ const App: React.FC = () => {
           transition={{ type: "spring", stiffness: 200, delay: 0.1 }}
           className="inline-block p-4 rounded-full bg-white/5 border border-white/10 mb-4 backdrop-blur-sm shadow-xl"
         >
-          <span className="text-4xl">កម្មវិធីអភិវឌ្ឍន៍សមត្ថភាព</span>
+          <span className="text-4xl">កម្មវិធីអភិវឌ្ឍន៍សមត្ថភាពទី១</span>
         </motion.div>
         <motion.h1 
           initial={{ y: 20, opacity: 0 }}
